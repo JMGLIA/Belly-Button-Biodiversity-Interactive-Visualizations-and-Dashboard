@@ -95,8 +95,6 @@ d3.json("https://gist.githubusercontent.com/JMGLIA/44a15de11dc308f935d15661f311d
     // var user_pic_value = d3.event.target.value;
     // $("#sample-metadata").empty();
 
-    const result = data.samples //.filter(user => user.id == user_pick_value);
-    const metadata = data.metadata //.filter(user => user.id == user_pick_value);
  
 });
 
