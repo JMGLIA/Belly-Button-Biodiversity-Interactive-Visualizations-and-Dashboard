@@ -1,2 +1,3 @@
-# Interactive_Visualizations_and_Dashboard
-https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/GWU-ARL-DATA-PT-12-2019-U-C/tree/master/02-Homework/15-Interactive-Visualizations-and-Dashboards/Instructions
+With a json containing the bacterial strains found in a large number of people's bellybuttons I used javascript to find which strains are the most prevalent in all of the study's participants.
+
+I also created several visualizations that displayed the ratio of bacteria present in specific participants belly buttons.
